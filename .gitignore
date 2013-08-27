@@ -1,0 +1,5 @@
+bin/
+lib/
+include/
+tor_password
+*pyc
